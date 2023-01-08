@@ -1,7 +1,7 @@
 # Torrent Webseed Creator
 Webseeded Torrent Creator using GitHub Actions.
 
-Inspired by [BurnBit †](https://web.archive.org/web/20160304022643/http://burnbit.com/) and [URLHash](http://www.urlhash.com/).
+Inspired by [BurnBit r.i.w (rest in web)](https://web.archive.org/web/20160304022643/http://burnbit.com/) and [URLHash](http://www.urlhash.com/).
 
 Powered by these programs to create a torrent file.
 * [torrenttools](https://github.com/fbdtemme/torrenttools)
